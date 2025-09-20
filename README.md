@@ -11,3 +11,7 @@ Employees in the organization need a quick and efficient way to request laptops 
 ## 🎥 Demo Video
 [Watch Demo Video](https://drive.google.com/file/d/1iwsuv63WSyF5qz_8bWQ3Daw__eIx1rfi/view?usp=drive_link)
 
+## 🖼 Screenshots
+![Screenshot 1](./screenshots.png)  
+
+
