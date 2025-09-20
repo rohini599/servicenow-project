@@ -12,6 +12,4 @@ Employees in the organization need a quick and efficient way to request laptops 
 [Watch Demo Video](https://drive.google.com/file/d/1iwsuv63WSyF5qz_8bWQ3Daw__eIx1rfi/view?usp=drive_link)
 
 ## 🖼 Screenshots
-![Project Screenshot](https://github.com/rohini599/servicenow-project/blob/main/Screenshots.png?raw=true)
-
-
+[Click here to view the screenshot](https://github.com/rohini599/servicenow-project/blob/main/Screenshots.png)
